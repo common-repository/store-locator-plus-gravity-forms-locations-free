@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Locator Plus : Gravity Forms Locations v4.6.00\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-23 14:48+0100\n"
+"PO-Revision-Date: 2016-09-03 14:08:25+0000\n"
+"Last-Translator: DeBAAT <De_BAAT@de-baat.nl>\n"
+"Language-Team: De B.A.A.T. <slp-gravity-forms-locations-free@de-baat.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: include/class.admin.php:350
+#@ slp-gravity-forms-locations-free
+msgid "Name"
+msgstr "Naam"
+
+#: include/class.admin.php:353
+#: include/slp-gfl-meta-box-config.php:129
+#@ slp-gravity-forms-locations-free
+msgid "City"
+msgstr "Plaats"
+
+#: include/class.admin.php:354
+#: include/slp-gfl-meta-box-config.php:130
+#@ slp-gravity-forms-locations-free
+msgid "State"
+msgstr "Provincie"
+
+#: include/class.admin.php:355
+#: include/slp-gfl-meta-box-config.php:131
+#@ slp-gravity-forms-locations-free
+msgid "Zip"
+msgstr "Postcode"
+
+#: include/class.admin.php:356
+#: include/slp-gfl-meta-box-config.php:132
+#@ slp-gravity-forms-locations-free
+msgid "Country"
+msgstr "Land"
+
+#: include/class.admin.php:359
+#@ slp-gravity-forms-locations-free
+msgid "Description"
+msgstr "Omschrijving"
+
+#: include/class.admin.php:360
+#: include/slp-gfl-meta-box-config.php:126
+#@ slp-gravity-forms-locations-free
+msgid "Email"
+msgstr "Email"
+
+#: include/class.admin.php:351
+#: include/slp-gfl-meta-box-config.php:127
+#@ slp-gravity-forms-locations-free
+msgid "Address"
+msgstr "Adres"
+
+#: include/class.adminui.php:195
+#@ slp-gravity-forms-locations-free
+msgid "Add"
+msgstr "Toevoegen"
+
+#: include/class.adminui.php:203
+#@ slp-gravity-forms-locations-free
+msgid "Update"
+msgstr "Bijwerken"
+
+#: include/class.adminui.php:115
+#@ slp-gravity-forms-locations-free
+msgid "Save Settings"
+msgstr "Sla Instellingen Op"
+
+#: include/class.admin.php:366
+#@ slp-gravity-forms-locations-free
+msgid "Hours"
+msgstr "Uren"
+
+#: include/class.admin.php:370
+#@ slp-gravity-forms-locations-free
+msgid "Phone"
+msgstr "Telefoon"
+
+#: include/class.admin.php:374
+#@ slp-gravity-forms-locations-free
+msgid "Fax"
+msgstr "Fax"
+
+#: include/class.adminui.php:160
+#: include/class.adminui.php:165
+#@ slp-gravity-forms-locations-free
+msgid "Settings"
+msgstr "Instellingen"
+
+#: include/class.admin.php:362
+#@ slp-gravity-forms-locations-free
+msgid "Website"
+msgstr "Web site"
+
+#: include/class.activation.php:23
+#@ slp-gravity-forms-locations-free
+msgid "GF Entry ID"
+msgstr "GF Inzending ID"
+
+#: include/class.activation.php:24
+#@ slp-gravity-forms-locations-free
+msgid "GF Forms ID"
+msgstr "GF Formulier ID"
+
+#: include/class.activation.php:25
+#@ slp-gravity-forms-locations-free
+msgid "GF Mapping ID"
+msgstr "GF Mapping ID"
+
+#: include/class.admin.php:145
+#: include/class.admin.php:156
+#: include/class.adminui.php:228
+#: include/slp-gfl-gravityforms.php:26
+#@ slp-gravity-forms-locations-free
+msgid "GFL Mappings"
+msgstr "GFL Mappings"
+
+#: include/class.admin.php:146
+#@ slp-gravity-forms-locations-free
+msgid "GFL Mapping"
+msgstr "GFL Mapping"
+
+#: include/class.admin.php:147
+#@ slp-gravity-forms-locations-free
+msgid "Add New"
+msgstr "Nieuwe Toevoegen"
+
+#: include/class.admin.php:148
+#@ slp-gravity-forms-locations-free
+msgid "Add New GFL Mapping"
+msgstr "Voeg Nieuwe GFL Mapping Toe"
+
+#: include/class.admin.php:149
+#@ slp-gravity-forms-locations-free
+msgid "Edit GFL Mapping"
+msgstr "Bewerk GFL Mapping"
+
+#: include/class.admin.php:150
+#@ slp-gravity-forms-locations-free
+msgid "New GFL Mapping"
+msgstr "Nieuwe GFL Mapping"
+
+#: include/class.admin.php:151
+#@ slp-gravity-forms-locations-free
+msgid "View GFL Mapping"
+msgstr "Bekijk GFL Mapping"
+
+#: include/class.admin.php:152
+#@ slp-gravity-forms-locations-free
+msgid "Search GFL Mappings"
+msgstr "Zoek GFL Mapping"
+
+#: include/class.admin.php:153
+#@ slp-gravity-forms-locations-free
+msgid "No gfl mappings found"
+msgstr "Geen gfl mappings gevonden"
+
+#: include/class.admin.php:154
+#@ slp-gravity-forms-locations-free
+msgid "No gfl mappings found in Trash"
+msgstr "Geen gfl mappings gevonden in Prullenbak"
+
+#: include/class.admin.php:155
+#@ slp-gravity-forms-locations-free
+msgid "Parent GFL Mapping:"
+msgstr "Parent GFL Mapping:"
+
+#: include/class.admin.php:162
+#@ slp-gravity-forms-locations-free
+msgid "This post_type contains the mappings for GF to SLP."
+msgstr "Dit post_type bevat de mappings voor GF naar SLP."
+
+#: include/class.admin.php:193
+#@ slp-gravity-forms-locations-free
+msgid "Title"
+msgstr "Titel"
+
+#: include/class.admin.php:196
+#@ slp-gravity-forms-locations-free
+msgid "Date"
+msgstr "Datum"
+
+#: include/class.admin.php:239
+#@ slp-gravity-forms-locations-free
+msgid "Configuration"
+msgstr "Configuratie"
+
+#: include/class.admin.php:352
+#: include/slp-gfl-meta-box-config.php:128
+#@ slp-gravity-forms-locations-free
+msgid "Address 2"
+msgstr "Adresregel 2"
+
+#: include/class.admin.php:357
+#@ slp-gravity-forms-locations-free
+msgid "Tags"
+msgstr "Tags"
+
+#: include/class.admin.php:358
+#@ slp-gravity-forms-locations-free
+msgid "Image"
+msgstr "Plaatje"
+
+#: include/class.adminui.php:169
+#@ slp-gravity-forms-locations-free
+msgid "General"
+msgstr "Algemeen"
+
+#: include/class.adminui.php:183
+#@ slp-gravity-forms-locations-free
+msgid "Duplicates Handling"
+msgstr "Duplicaten Afhandeling"
+
+#: include/class.adminui.php:185
+#@ slp-gravity-forms-locations-free
+msgid "How should duplicates be handled?"
+msgstr "Hoe moeten dubbele locaties worden afgehandeld?"
+
+#: include/class.adminui.php:186
+#@ slp-gravity-forms-locations-free
+msgid "Duplicates are records that match on name and complete address with country."
+msgstr "Duplicaten zijn records die matchen op naam en volledig adres, inclusief land."
+
+#: include/class.adminui.php:187
+#@ slp-gravity-forms-locations-free
+msgid "Add (default) will add new records when duplicates are encountered."
+msgstr "Toevoegen (default) voegt een nieuw record toe als een duplicaat is gedetecteerd."
+
+#: include/class.adminui.php:188
+#@ slp-gravity-forms-locations-free
+msgid "Skip will not process duplicate records."
+msgstr "Overslaan zal duplicaten niet verder verwerken."
+
+#: include/class.adminui.php:189
+#@ slp-gravity-forms-locations-free
+msgid "Update will update duplicate records."
+msgstr "Bijwerken zal duplicaten bijwerken."
+
+#: include/class.adminui.php:190
+#@ slp-gravity-forms-locations-free
+msgid "To update name and address fields the CSV must have the ID column with the ID of the existing location."
+msgstr "Om naam en adres velden bij te werken moet de CSV een ID kolom hebben met het ID van de bestaande locatie."
+
+#: include/class.adminui.php:199
+#@ slp-gravity-forms-locations-free
+msgid "Skip"
+msgstr "Overslaan"
+
+#: include/class.adminui.php:221
+#@ slp-gravity-forms-locations-free
+msgid "GFL Custom Post Types"
+msgstr "GFL Custom Post Types"
+
+#: include/class.adminui.php:232
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "Manage the <a href=\"%s\">%s</a> post type entries."
+msgstr "Beheer de <a href=\"%s\">%s</a> post type inzendingen."
+
+#: include/class.adminui.php:242
+#@ slp-gravity-forms-locations-free
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: include/class.adminui.php:246
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "View the <a href=\"%s\" target=\"csa\">documentation</a> for more info."
+msgstr "Bekijk de <a href=\"%s\" target=\"csa\">documentatie</a> voor meer info."
+
+#: include/class.adminui.php:274
+#@ slp-gravity-forms-locations-free
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: include/slp-gfl-meta-box-config.php:30
+#@ slp-gravity-forms-locations-free
+msgid "Gravity Form"
+msgstr "Gravity Form"
+
+#: include/slp-gfl-meta-box-config.php:35
+#@ slp-gravity-forms-locations-free
+msgid "&mdash; Select a form &mdash;"
+msgstr "&mdash; Selecteer een formulier &mdash;"
+
+#: include/slp-gfl-meta-box-config.php:50
+#@ slp-gravity-forms-locations-free
+msgid "Condition"
+msgstr "Conditie"
+
+#: include/slp-gfl-meta-box-config.php:66
+#@ slp-gravity-forms-locations-free
+msgid "Enable"
+msgstr "Aanzetten"
+
+#: include/slp-gfl-meta-box-config.php:81
+#@ slp-gravity-forms-locations-free
+msgid "is"
+msgstr "is"
+
+#: include/slp-gfl-meta-box-config.php:82
+#@ slp-gravity-forms-locations-free
+msgid "is not"
+msgstr "is niet"
+
+#: include/slp-gfl-meta-box-config.php:101
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "Create a location if %s %s %s"
+msgstr "Creëer een locatie als %s %s %s"
+
+#: include/slp-gfl-meta-box-config.php:111
+#@ slp-gravity-forms-locations-free
+msgid "To create a condition, your form must have a drop down, checkbox or multiple choice field."
+msgstr "Om een conditie te kunnen maken moet je formulier een drop down, checkbox of multiple choice veld hebben."
+
+#: include/slp-gfl-meta-box-config.php:118
+#@ slp-gravity-forms-locations-free
+msgid "Fields"
+msgstr "Velden"
+
+#: include/slp-gfl-meta-box-config.php:124
+#@ slp-gravity-forms-locations-free
+msgid "First Name"
+msgstr "Voornaam"
+
+#: include/slp-gfl-meta-box-config.php:125
+#@ slp-gravity-forms-locations-free
+msgid "Last Name"
+msgstr "Achternaam"
+
+#. translators: plugin header field 'Description'
+#: slp-gravity-forms-locations-free.php:0
+#@ slp-gravity-forms-locations-free
+msgid "A free add-on pack for Store Locator Plus that supports basic locations for Gravity Forms."
+msgstr "Een gratis add-on voor Store Locator Plus die basis locaties ondersteunt voor Gravity Forms."
+
+#: include/class.admin.php:194
+#@ slp-gravity-forms-locations-free
+msgid "Form Title"
+msgstr "Formulier Titel"
+
+#: include/class.admin.php:195
+#@ slp-gravity-forms-locations-free
+msgid "Form ID"
+msgstr "Formulier ID"
+
+#: include/class.adminui.php:222
+#@ slp-gravity-forms-locations-free
+msgid "Explanation"
+msgstr "Uitleg"
+
+#. translators: plugin header field 'Name'
+#: slp-gravity-forms-locations-free.php:0
+#: slp-gravity-forms-locations-free.php:34
+#@ slp-gravity-forms-locations-free
+msgid "Store Locator Plus : Gravity Forms Locations"
+msgstr "Store Locator Plus : Gravity Forms Locations"
+
+#: include/class.slp-gravity-forms-locations-free.php:86
+#@ slp-gravity-forms-locations-free
+msgid "Gravity Forms Locations"
+msgstr "Gravity Forms Locations"
+
+#: include/class.slp-gravity-forms-locations-free.php:128
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "SLP %s has been deactivated."
+msgstr "SLP %s is gedeactiveerd."
+
+#: include/class.slp-gravity-forms-locations-free.php:132
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "This plugin requires %s to be installed and active."
+msgstr "Voor deze plug-in is het vereist dat %s geïnstalleerd en geactiveerd is."
+
+#: include/class.slp-gravity-forms-locations-free.php:136
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "Please <a href=\"%s\">download</a> at least version %s of %s and try again."
+msgstr "<a href=\"%s\">Download</a> aub minimaal versie %s van %s en probeer het opnieuw."
+
+#: include/class.slp-gravity-forms-locations-free.php:167
+#@ slp-gravity-forms-locations-free
+msgid "Gravity Forms"
+msgstr "Gravity Forms"
+
+#. translators: plugin header field 'PluginURI'
+#: slp-gravity-forms-locations-free.php:0
+#@ slp-gravity-forms-locations-free
+msgid "https://www.storelocatorplus.com/product/gravity-forms-locations/"
+msgstr "https://www.storelocatorplus.com/product/gravity-forms-locations/"
+
+#. translators: plugin header field 'Author'
+#: slp-gravity-forms-locations-free.php:0
+#@ slp-gravity-forms-locations-free
+msgid "Store Locator Plus - De B.A.A.T."
+msgstr "Store Locator Plus - De B.A.A.T."
+
+#. translators: plugin header field 'AuthorURI'
+#: slp-gravity-forms-locations-free.php:0
+#@ slp-gravity-forms-locations-free
+msgid "https://www.de-baat.nl/slp/"
+msgstr "https://www.de-baat.nl/slp/"
+
+#: include/class.activation.php:26
+#@ slp-gravity-forms-locations-free
+msgid "GF Post ID"
+msgstr "GF Post ID"
+
+#: slp-gravity-forms-locations-free.php:46
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "%s requires Store Locator Plus to function properly."
+msgstr "%s heeft Store Locator Plus nodig om goed te kunnen functioneren."
+
+#: slp-gravity-forms-locations-free.php:49
+#: slp-gravity-forms-locations-free.php:75
+#@ slp-gravity-forms-locations-free
+msgid "This plugin has been deactivated."
+msgstr "Deze plug-in is gedeactiveerd."
+
+#: slp-gravity-forms-locations-free.php:51
+#@ slp-gravity-forms-locations-free
+msgid "Please install Store Locator Plus."
+msgstr "Installeer Store Locator Plus aub."
+
+#: slp-gravity-forms-locations-free.php:70
+#, php-format
+#@ slp-gravity-forms-locations-free
+msgid "%s requires WordPress %s to function properly."
+msgstr "%s heeft WordPress %s nodig om goed te kunnen functioneren."
+
+#: slp-gravity-forms-locations-free.php:77
+#@ slp-gravity-forms-locations-free
+msgid "Please upgrade WordPress."
+msgstr "Waardeer WordPress aub op."
+
+#: include/class.activation.php:27
+#@ slp-gravity-forms-locations-free
+msgid "GF Resume Token"
+msgstr "GF Resume Token"
+
+#. translators: plugin header field 'Version'
+#: slp-gravity-forms-locations-free.php:0
+#@ slp-gravity-forms-locations-free
+msgid "4.6.00"
+msgstr "4.6.00"
+

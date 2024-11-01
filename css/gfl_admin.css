@@ -1,0 +1,65 @@
+#icon-slp_gfl,
+#icon-gf_edit_forms {
+	background: url("../images/icon_from_jpg_16x16.png") no-repeat;
+}
+
+td.column-version {
+	width: 5em;
+}
+
+.slp-gfl-status-table tbody th:first-child {
+	width: 20%;
+}
+
+/**
+ * Documentation
+ */
+.slp-gfl-table tr.deprecated td,
+.slp-gfl-table tr.deprecated a {
+	color: #AAAAAA;
+}
+
+/**
+ * Gravity Forms notifications
+ */
+.slp-gfl-gf-notifications {
+	margin-left: 28px;
+}
+
+.slp-gfl-gf-notifications ul {
+	margin: 0;	
+}
+
+.slp-gfl-gf-notifications li {
+	margin: 0;	
+}
+
+/**
+ * Gravity Forms editor
+ */
+.gforms_edit_form .ginput_slp_gfl {
+	background: url("../images/icon_from_jpg_16x16.png") no-repeat;
+	padding-left: 20px;
+}
+
+.gforms_edit_form .slp_gfl-edit-link {
+	background: url("../images/icon_from_jpg_16x16.png") no-repeat;
+	display: none;
+	float: right;
+	font-size: 10px;
+	height: 16px;
+	line-height: 16px;
+	padding: 0 0 0 18px;
+	text-decoration: none;
+}
+
+.gforms_edit_form .field_hover .slp_gfl-edit-link ,
+.gforms_edit_form .field_selected .slp_gfl-edit-link {
+	display: block;
+}
+
+/* Add SLP_GFL fields */
+#add_slp_gfl_fields .button {
+	/* The default Gravity Forms button width is too small */
+/*	width: 10em; */
+}
